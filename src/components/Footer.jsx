@@ -10,7 +10,7 @@ function Footer() {
         alt="Bilal Gümüş's GitHub Account"
         className="hover:underline"
       >
-        Bilal Gümüş
+      Deepali 
       </a>
     </h6>
   );
